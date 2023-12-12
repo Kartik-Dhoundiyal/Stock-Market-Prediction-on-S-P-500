@@ -1,1 +1,1 @@
-# Stock-Market-Prediction-on-S-P-500
+# Stock-Market-Prediction-on-S&P-500
